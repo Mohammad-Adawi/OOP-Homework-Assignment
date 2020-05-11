@@ -2,7 +2,7 @@
 
 namespace Object_Oriented_Assignment
 {
-   abstract class Painting
+    abstract class Painting
     {
         public string groupName = "Painting";
         public void message()
@@ -62,12 +62,12 @@ namespace Object_Oriented_Assignment
                 mediumName = value;
             }
         }
-      public void myPublicMessage()
+        public void myPublicMessage()
         {
             Console.WriteLine("public message!");
         }
     }
-   class Year : Painting
+    class Year : Painting
     {
 
         private string yearName;
@@ -102,12 +102,12 @@ namespace Object_Oriented_Assignment
             newMessage.myPublicMessage();
             newMessage.message();
 
-           myEntry.entry();
+            myEntry.entry();
 
-            newName.MyPaintname="Painting number one";
-            newArtist.MyArtistname="John Doe";     
-             Console.WriteLine("PaintName: " + newName.MyPaintname);
-             Console.WriteLine("ArtistName: " + newArtist.MyArtistname);
+            newName.MyPaintname = "Painting number one";
+            newArtist.MyArtistname = "John Doe";
+            Console.WriteLine("PaintName: " + newName.MyPaintname);
+            Console.WriteLine("ArtistName: " + newArtist.MyArtistname);
             Console.WriteLine("Good Bye!");
         }
     }
