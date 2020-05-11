@@ -1,0 +1,13 @@
+C:\Users\PC\OneDrive\Desktop\Git hub Projects\Object-Oriented-Assignment\bin\Debug\netcoreapp3.1\Object-Oriented-Assignment.exe
+C:\Users\PC\OneDrive\Desktop\Git hub Projects\Object-Oriented-Assignment\bin\Debug\netcoreapp3.1\Object-Oriented-Assignment.deps.json
+C:\Users\PC\OneDrive\Desktop\Git hub Projects\Object-Oriented-Assignment\bin\Debug\netcoreapp3.1\Object-Oriented-Assignment.runtimeconfig.json
+C:\Users\PC\OneDrive\Desktop\Git hub Projects\Object-Oriented-Assignment\bin\Debug\netcoreapp3.1\Object-Oriented-Assignment.runtimeconfig.dev.json
+C:\Users\PC\OneDrive\Desktop\Git hub Projects\Object-Oriented-Assignment\bin\Debug\netcoreapp3.1\Object-Oriented-Assignment.dll
+C:\Users\PC\OneDrive\Desktop\Git hub Projects\Object-Oriented-Assignment\bin\Debug\netcoreapp3.1\Object-Oriented-Assignment.pdb
+C:\Users\PC\OneDrive\Desktop\Git hub Projects\Object-Oriented-Assignment\obj\Debug\netcoreapp3.1\Object-Oriented-Assignment.csprojAssemblyReference.cache
+C:\Users\PC\OneDrive\Desktop\Git hub Projects\Object-Oriented-Assignment\obj\Debug\netcoreapp3.1\Object-Oriented-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Desktop\Git hub Projects\Object-Oriented-Assignment\obj\Debug\netcoreapp3.1\Object-Oriented-Assignment.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Desktop\Git hub Projects\Object-Oriented-Assignment\obj\Debug\netcoreapp3.1\Object-Oriented-Assignment.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Desktop\Git hub Projects\Object-Oriented-Assignment\obj\Debug\netcoreapp3.1\Object-Oriented-Assignment.dll
+C:\Users\PC\OneDrive\Desktop\Git hub Projects\Object-Oriented-Assignment\obj\Debug\netcoreapp3.1\Object-Oriented-Assignment.pdb
+C:\Users\PC\OneDrive\Desktop\Git hub Projects\Object-Oriented-Assignment\obj\Debug\netcoreapp3.1\Object-Oriented-Assignment.genruntimeconfig.cache
