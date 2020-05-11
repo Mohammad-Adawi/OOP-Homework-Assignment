@@ -2,12 +2,16 @@
 
 namespace Object_Oriented_Assignment
 {
-    class Painting
+   abstract class Painting
     {
         public string groupName = "Painting";
-        public void greet()
+        public void message()
         {
-            Console.WriteLine("Welcome to Painting!");
+            Console.WriteLine("Private message!");
+        }
+        public virtual void entry()
+        {
+            Console.WriteLine("main entry");
         }
     }
 
@@ -58,9 +62,12 @@ namespace Object_Oriented_Assignment
                 mediumName = value;
             }
         }
-
+      public void myPublicMessage()
+        {
+            Console.WriteLine("public message!");
+        }
     }
-    class Year : Painting
+   class Year : Painting
     {
 
         private string yearName;
@@ -76,6 +83,10 @@ namespace Object_Oriented_Assignment
                 yearName = value;
             }
         }
+        public override void entry()
+        {
+            Console.WriteLine("new entry");
+        }
     }
     class Program
     {
@@ -83,11 +94,19 @@ namespace Object_Oriented_Assignment
         {
             Name newName = new Name();
             Artist newArtist = new Artist();
-            Medium newMedium = new Medium();
+            Medium newMessage = new Medium();
             Year newYear = new Year();
 
-            newArtist.MyArtistname="John Doe";
-            newName.greet();
+            Painting myEntry = new Year();
+
+            newMessage.myPublicMessage();
+            newMessage.message();
+
+           myEntry.entry();
+
+            newName.MyPaintname="Painting number one";
+            newArtist.MyArtistname="John Doe";     
+             Console.WriteLine("PaintName: " + newName.MyPaintname);
              Console.WriteLine("ArtistName: " + newArtist.MyArtistname);
             Console.WriteLine("Good Bye!");
         }
